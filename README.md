@@ -1,4 +1,4 @@
-# vue-cli`s based project wight simple table sort and pagination
+# vue-cli`s based project with simple table sort and pagination
 
 ## Project setup
 ```
